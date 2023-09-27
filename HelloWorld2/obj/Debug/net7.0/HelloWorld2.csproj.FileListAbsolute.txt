@@ -1,0 +1,15 @@
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\bin\Debug\net7.0\HelloWorld2.exe
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\bin\Debug\net7.0\HelloWorld2.deps.json
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\bin\Debug\net7.0\HelloWorld2.runtimeconfig.json
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\bin\Debug\net7.0\HelloWorld2.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\bin\Debug\net7.0\HelloWorld2.pdb
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfo.cs
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\refint\HelloWorld2.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.pdb
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.genruntimeconfig.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\HelloWorld2\HelloWorld2\obj\Debug\net7.0\ref\HelloWorld2.dll
